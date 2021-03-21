@@ -2,5 +2,5 @@
 layout: slide
 title: “Welcome to our second slide!”
 ---
-Your test
+This slide is the best slide of all the slides.
 Use the left arrow to go back!
